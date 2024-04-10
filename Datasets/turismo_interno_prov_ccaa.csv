@@ -1,0 +1,167 @@
+CA_ORIGEN;CA_DESTINO;TURISTAS
+Andalucia;Andalucia;21558475
+Andalucia;Aragon;226974
+Andalucia;Canarias;364802
+Andalucia;Castilla La Mancha;944321
+Andalucia;Castilla y Leon;637749
+Andalucia;Cataluna;1167727
+Andalucia;Madrid;3033673
+Andalucia;Navarra;110797
+Andalucia;Valencia;1075229
+Andalucia;Extremadura;1023939
+Andalucia;Galicia;327246
+Andalucia;Pais Vasco;301497
+Andalucia;Asturias;165926
+Aragon;Andalucia;231657
+Aragon;Aragon;2003114
+Aragon;Canarias;44244
+Aragon;Castilla La Mancha;170378
+Aragon;Castilla y Leon;343003
+Aragon;Cataluna;1307332
+Aragon;Madrid;529003
+Aragon;Navarra;316312
+Aragon;Valencia;776561
+Aragon;Extremadura;29587
+Aragon;Galicia;64556
+Aragon;Pais Vasco;194311
+Aragon;Asturias;47515
+Canarias;Andalucia;343688
+Canarias;Aragon;33771
+Canarias;Canarias;1093897
+Canarias;Castilla La Mancha;37058
+Canarias;Castilla y Leon;77128
+Canarias;Cataluna;244593
+Canarias;Madrid;579278
+Canarias;Navarra;16149
+Canarias;Valencia;116168
+Canarias;Extremadura;21524
+Canarias;Galicia;130122
+Canarias;Pais Vasco;67433
+Canarias;Asturias;51017
+Castilla La Mancha;Andalucia;1133760
+Castilla La Mancha;Aragon;184238
+Castilla La Mancha;Canarias;65908
+Castilla La Mancha;Castilla La Mancha;1669462
+Castilla La Mancha;Castilla y Leon;555624
+Castilla La Mancha;Cataluna;344921
+Castilla La Mancha;Madrid;4395278
+Castilla La Mancha;Navarra;52060
+Castilla La Mancha;Valencia;1562658
+Castilla La Mancha;Extremadura;301151
+Castilla La Mancha;Galicia;136068
+Castilla La Mancha;Pais Vasco;98988
+Castilla La Mancha;Asturias;96523
+Castilla y Leon;Andalucia;562230
+Castilla y Leon;Aragon;212052
+Castilla y Leon;Canarias;95398
+Castilla y Leon;Castilla La Mancha;334316
+Castilla y Leon;Castilla y Leon;3544543
+Castilla y Leon;Cataluna;345840
+Castilla y Leon;Madrid;2293330
+Castilla y Leon;Navarra;131993
+Castilla y Leon;Valencia;475707
+Castilla y Leon;Extremadura;298823
+Castilla y Leon;Galicia;598014
+Castilla y Leon;Pais Vasco;778914
+Castilla y Leon;Asturias;594871
+Cataluna;Andalucia;1353153
+Cataluna;Aragon;1556789
+Cataluna;Canarias;304309
+Cataluna;Castilla La Mancha;398953
+Cataluna;Castilla y Leon;584842
+Cataluna;Cataluna;17052481
+Cataluna;Madrid;1857927
+Cataluna;Navarra;248072
+Cataluna;Valencia;1777676
+Cataluna;Extremadura;159590
+Cataluna;Galicia;361876
+Cataluna;Pais Vasco;506741
+Cataluna;Asturias;142467
+Madrid;Andalucia;5105700
+Madrid;Aragon;983754
+Madrid;Canarias;708724
+Madrid;Castilla La Mancha;8426220
+Madrid;Castilla y Leon;7168890
+Madrid;Cataluna;2073831
+Madrid;Navarra;327826
+Madrid;Valencia;4426370
+Madrid;Extremadura;1715946
+Madrid;Galicia;1438057
+Madrid;Pais Vasco;966479
+Madrid;Asturias;1011216
+Navarra;Andalucia;118790
+Navarra;Aragon;366378
+Navarra;Canarias;24595
+Navarra;Castilla La Mancha;39699
+Navarra;Castilla y Leon;196634
+Navarra;Cataluna;274719
+Navarra;Madrid;234573
+Navarra;Valencia;151249
+Navarra;Extremadura;20993
+Navarra;Galicia;39970
+Navarra;Pais Vasco;458054
+Navarra;Asturias;37286
+Valencia;Andalucia;1453757
+Valencia;Aragon;1014131
+Valencia;Canarias;151328
+Valencia;Castilla La Mancha;1752805
+Valencia;Castilla y Leon;454053
+Valencia;Cataluna;1970892
+Valencia;Madrid;2091530
+Valencia;Navarra;160498
+Valencia;Valencia;5326601
+Valencia;Extremadura;110916
+Valencia;Galicia;208591
+Valencia;Pais Vasco;255545
+Valencia;Asturias;115893
+Extremadura;Andalucia;1257480
+Extremadura;Aragon;34863
+Extremadura;Canarias;36191
+Extremadura;Castilla La Mancha;263063
+Extremadura;Castilla y Leon;390466
+Extremadura;Cataluna;100778
+Extremadura;Madrid;770609
+Extremadura;Navarra;16163
+Extremadura;Valencia;103881
+Extremadura;Extremadura;930475
+Extremadura;Galicia;60472
+Extremadura;Pais Vasco;71487
+Extremadura;Asturias;42468
+Galicia;Andalucia;310112
+Galicia;Aragon;85563
+Galicia;Canarias;207335
+Galicia;Castilla La Mancha;112992
+Galicia;Castilla y Leon;805465
+Galicia;Cataluna;310845
+Galicia;Madrid;1021490
+Galicia;Navarra;53039
+Galicia;Valencia;183201
+Galicia;Extremadura;55742
+Galicia;Galicia;6516652
+Galicia;Pais Vasco;218844
+Galicia;Asturias;525284
+Pais Vasco;Andalucia;458151
+Pais Vasco;Aragon;437325
+Pais Vasco;Canarias;146538
+Pais Vasco;Castilla La Mancha;104664
+Pais Vasco;Castilla y Leon;1903994
+Pais Vasco;Cataluna;575548
+Pais Vasco;Madrid;893369
+Pais Vasco;Navarra;841058
+Pais Vasco;Valencia;383367
+Pais Vasco;Extremadura;127206
+Pais Vasco;Galicia;282809
+Pais Vasco;Pais Vasco;2050587
+Pais Vasco;Asturias;288660
+Asturias;Andalucia;172424
+Asturias;Aragon;42230
+Asturias;Canarias;62881
+Asturias;Castilla La Mancha;53346
+Asturias;Castilla y Leon;812559
+Asturias;Cataluna;124927
+Asturias;Madrid;450598
+Asturias;Navarra;30091
+Asturias;Valencia;106727
+Asturias;Extremadura;36690
+Asturias;Galicia;526317
+Asturias;Pais Vasco;166153

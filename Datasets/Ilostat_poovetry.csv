@@ -1,0 +1,421 @@
+﻿Country;Year;Povetry_rate
+Algeria;2013;0.113
+Algeria;2014;0.103
+Algeria;2015;0.1
+Algeria;2016;0.096
+Algeria;2017;0.096
+Algeria;2018;0.093
+Algeria;2019;0.093
+Angola;2013;14.961
+Angola;2014;15.468
+Angola;2015;17.076
+Angola;2016;19.15
+Angola;2017;21.723
+Angola;2018;24.656
+Angola;2019;26.349
+Benin;2013;46.318
+Benin;2014;43.665
+Benin;2015;44.424
+Benin;2016;42.317
+Benin;2017;32.432
+Benin;2018;20.701
+Benin;2019;15.638
+Botswana;2013;9.371
+Botswana;2014;8.607
+Botswana;2015;10.906
+Botswana;2016;9.872
+Botswana;2017;9.416
+Botswana;2018;8.906
+Botswana;2019;8.867
+Burkina Faso;2013;36.616
+Burkina Faso;2014;34.715
+Burkina Faso;2015;35.088
+Burkina Faso;2016;31.968
+Burkina Faso;2017;29.536
+Burkina Faso;2018;27.416
+Burkina Faso;2019;26.129
+Burundi;2013;62.885
+Burundi;2014;60.973
+Burundi;2015;64.602
+Burundi;2016;65.591
+Burundi;2017;66.465
+Burundi;2018;67.134
+Burundi;2019;67.88
+Cabo Verde;2013;3.128
+Cabo Verde;2014;2.67
+Cabo Verde;2015;2.185
+Cabo Verde;2016;1.777
+Cabo Verde;2017;1.528
+Cabo Verde;2018;1.045
+Cabo Verde;2019;0.729
+Cameroon;2013;25.25
+Cameroon;2014;22.669
+Cameroon;2015;21.9
+Cameroon;2016;21.015
+Cameroon;2017;20.794
+Cameroon;2018;20.437
+Cameroon;2019;20.089
+Central Africa;2013;44.857
+Central Africa;2014;42.948
+Central Africa;2015;42.239
+Central Africa;2016;43.146
+Central Africa;2017;43.817
+Central Africa;2018;43.716
+Central Africa;2019;43.58
+Central African Republic;2013;70.975
+Central African Republic;2014;70.699
+Central African Republic;2015;68.83
+Central African Republic;2016;66.934
+Central African Republic;2017;66.597
+Central African Republic;2018;64.77
+Central African Republic;2019;63.376
+Chad;2013;29.057
+Chad;2014;26.449
+Chad;2015;25.214
+Chad;2016;28.446
+Chad;2017;30.128
+Chad;2018;29.635
+Chad;2019;29.211
+Comoros;2013;13.479
+Comoros;2014;14.002
+Comoros;2015;14.359
+Comoros;2016;13.99
+Comoros;2017;13.53
+Comoros;2018;13.329
+Comoros;2019;13.36
+Congo;2013;64.798
+Congo;2013;32.766
+Congo;2014;62.206
+Congo;2014;31.368
+Congo;2015;60.677
+Congo;2015;33.33
+Congo;2016;61.268
+Congo;2016;38.846
+Congo;2017;61.333
+Congo;2017;41.513
+Congo;2018;60.16
+Congo;2018;45.068
+Congo;2019;59.47
+Congo;2019;46.674
+Côte d'Ivoire;2013;33.763
+Côte d'Ivoire;2014;31.99
+Côte d'Ivoire;2015;30.831
+Côte d'Ivoire;2016;23.596
+Côte d'Ivoire;2017;17.169
+Côte d'Ivoire;2018;14.002
+Côte d'Ivoire;2019;11.264
+Eastern Africa;2013;39.109
+Eastern Africa;2014;38.751
+Eastern Africa;2015;38.657
+Eastern Africa;2016;38.337
+Eastern Africa;2017;38.083
+Eastern Africa;2018;37.59
+Eastern Africa;2019;37.222
+Egypt;2013;0.333
+Egypt;2014;0.318
+Egypt;2015;0.246
+Egypt;2016;0.379
+Egypt;2017;0.604
+Egypt;2018;0.926
+Egypt;2019;0.516
+Equatorial Guinea;2013;34.543
+Equatorial Guinea;2014;33.603
+Equatorial Guinea;2015;33.877
+Equatorial Guinea;2016;33.732
+Equatorial Guinea;2017;33.186
+Equatorial Guinea;2018;32.608
+Equatorial Guinea;2019;32.391
+Eritrea;2013;33.116
+Eritrea;2014;31.876
+Eritrea;2015;31.959
+Eritrea;2016;31.604
+Eritrea;2017;30.967
+Eritrea;2018;30.201
+Eritrea;2019;29.805
+Eswatini;2013;27.593
+Eswatini;2014;27.982
+Eswatini;2015;27.232
+Eswatini;2016;27.685
+Eswatini;2017;27.267
+Eswatini;2018;26.49
+Eswatini;2019;25.633
+Ethiopia;2013;25.827
+Ethiopia;2014;25.143
+Ethiopia;2015;24.547
+Ethiopia;2016;22.292
+Ethiopia;2017;19.701
+Ethiopia;2018;17.771
+Ethiopia;2019;16.446
+Gabon;2013;2.044
+Gabon;2014;1.752
+Gabon;2015;1.489
+Gabon;2016;1.31
+Gabon;2017;1.118
+Gabon;2018;1.195
+Gabon;2019;1.112
+Gambia;2013;17.398
+Gambia;2014;15.581
+Gambia;2015;11.738
+Gambia;2016;11.861
+Gambia;2017;12.485
+Gambia;2018;12.226
+Gambia;2019;12.137
+Ghana;2013;21.133
+Ghana;2014;20.731
+Ghana;2015;21.176
+Ghana;2016;21.228
+Ghana;2017;19.914
+Ghana;2018;18.75
+Ghana;2019;17.685
+Guinea;2013;24.211
+Guinea;2014;23.234
+Guinea;2015;22.153
+Guinea;2016;19.591
+Guinea;2017;17.16
+Guinea;2018;15.563
+Guinea;2019;14.288
+Guinea-Bissau;2013;51.309
+Guinea-Bissau;2014;41.897
+Guinea-Bissau;2015;42.541
+Guinea-Bissau;2016;29.163
+Guinea-Bissau;2017;22.845
+Guinea-Bissau;2018;19.93
+Guinea-Bissau;2019;16.553
+Kenya;2013;23.861
+Kenya;2014;23.147
+Kenya;2015;22.414
+Kenya;2016;22.275
+Kenya;2017;23.476
+Kenya;2018;23.524
+Kenya;2019;23.857
+Lesotho;2013;22.289
+Lesotho;2014;24.649
+Lesotho;2015;22.674
+Lesotho;2016;20.611
+Lesotho;2017;20.943
+Lesotho;2018;21.843
+Lesotho;2019;22.84
+Liberia;2013;26.656
+Liberia;2014;25.875
+Liberia;2015;26.003
+Liberia;2016;27.264
+Liberia;2017;27.069
+Liberia;2018;27.426
+Liberia;2019;30.014
+Libya;2013;0.699
+Libya;2014;0.8
+Libya;2015;1.569
+Libya;2016;1.895
+Libya;2017;3.545
+Libya;2018;4.832
+Libya;2019;4.379
+Madagascar;2013;77.211
+Madagascar;2014;77.014
+Madagascar;2015;76.948
+Madagascar;2016;76.377
+Madagascar;2017;75.998
+Madagascar;2018;75.782
+Madagascar;2019;75.018
+Malawi;2013;63.005
+Malawi;2014;60.914
+Malawi;2015;61.245
+Malawi;2016;61.831
+Malawi;2017;62.834
+Malawi;2018;64.35
+Malawi;2019;65.214
+Mali;2013;37.308
+Mali;2014;31.924
+Mali;2015;34.319
+Mali;2016;24.621
+Mali;2017;19.105
+Mali;2018;15.508
+Mali;2019;14.157
+Mauritania;2013;4.654
+Mauritania;2014;3.665
+Mauritania;2015;3.506
+Mauritania;2016;3.834
+Mauritania;2017;3.559
+Mauritania;2018;3.49
+Mauritania;2019;3.533
+Mauritius;2013;0.102
+Mauritius;2014;0.086
+Mauritius;2015;0.072
+Mauritius;2016;0.055
+Mauritius;2017;0.034
+Mauritius;2018;0.029
+Mauritius;2019;0.023
+Morocco;2013;1.168
+Morocco;2014;1.03
+Morocco;2015;0.894
+Morocco;2016;0.783
+Morocco;2017;0.521
+Morocco;2018;0.402
+Morocco;2019;0.335
+Mozambique;2013;63.135
+Mozambique;2014;62.207
+Mozambique;2015;62.181
+Mozambique;2016;63.576
+Mozambique;2017;65.02
+Mozambique;2018;66.592
+Mozambique;2019;68.63
+Namibia;2013;10.658
+Namibia;2014;8.943
+Namibia;2015;8.547
+Namibia;2016;8.581
+Namibia;2017;9.325
+Namibia;2018;9.72
+Namibia;2019;10.202
+Niger;2013;49.744
+Niger;2014;49.433
+Niger;2015;49.937
+Niger;2016;49.616
+Niger;2017;49.413
+Niger;2018;46.965
+Niger;2019;45.417
+Nigeria;2013;26.503
+Nigeria;2014;24.935
+Nigeria;2015;25.117
+Nigeria;2016;26.219
+Nigeria;2017;25.941
+Nigeria;2018;25.585
+Nigeria;2019;25.392
+Northern Africa;2013;2.08
+Northern Africa;2014;1.937
+Northern Africa;2015;2.019
+Northern Africa;2016;2.069
+Northern Africa;2017;2.363
+Northern Africa;2018;2.984
+Northern Africa;2019;3.176
+Rwanda;2013;48.496
+Rwanda;2014;46.712
+Rwanda;2015;44.219
+Rwanda;2016;43.984
+Rwanda;2017;44.727
+Rwanda;2018;41.329
+Rwanda;2019;36.704
+Senegal;2013;37.221
+Senegal;2014;31.26
+Senegal;2015;25.61
+Senegal;2016;21.161
+Senegal;2017;14.277
+Senegal;2018;10.579
+Senegal;2019;8.743
+Sierra Leone;2013;19.934
+Sierra Leone;2014;18.138
+Sierra Leone;2015;32.599
+Sierra Leone;2016;28.304
+Sierra Leone;2017;26.83
+Sierra Leone;2018;25.649
+Sierra Leone;2019;24.513
+Somalia;2013;74.299
+Somalia;2014;72.588
+Somalia;2015;67.976
+Somalia;2016;65.412
+Somalia;2017;65.498
+Somalia;2018;63.115
+Somalia;2019;60.324
+South Africa;2013;7.241
+South Africa;2014;7.544
+South Africa;2015;7.834
+South Africa;2016;7.872
+South Africa;2017;7.786
+South Africa;2018;7.769
+South Africa;2019;7.884
+Southern Africa;2013;8.229
+Southern Africa;2014;8.495
+Southern Africa;2015;8.727
+Southern Africa;2016;8.674
+Southern Africa;2017;8.611
+Southern Africa;2018;8.619
+Southern Africa;2019;8.766
+Sub-Saharan Africa;2013;34.586
+Sub-Saharan Africa;2014;33.574
+Sub-Saharan Africa;2015;33.562
+Sub-Saharan Africa;2016;33.212
+Sub-Saharan Africa;2017;32.578
+Sub-Saharan Africa;2018;31.802
+Sub-Saharan Africa;2019;31.355
+Sub-Saharan Africa: Low income;2013;45.512
+Sub-Saharan Africa: Low income;2014;44.162
+Sub-Saharan Africa: Low income;2015;44.064
+Sub-Saharan Africa: Low income;2016;43.111
+Sub-Saharan Africa: Low income;2017;42.274
+Sub-Saharan Africa: Low income;2018;41.065
+Sub-Saharan Africa: Low income;2019;40.338
+Sub-Saharan Africa: Lower-middle income;2013;28.569
+Sub-Saharan Africa: Lower-middle income;2014;27.619
+Sub-Saharan Africa: Lower-middle income;2015;27.631
+Sub-Saharan Africa: Lower-middle income;2016;27.678
+Sub-Saharan Africa: Lower-middle income;2017;27.082
+Sub-Saharan Africa: Lower-middle income;2018;26.494
+Sub-Saharan Africa: Lower-middle income;2019;26.117
+Sub-Saharan Africa: Upper-middle income;2013;7.622
+Sub-Saharan Africa: Upper-middle income;2014;7.785
+Sub-Saharan Africa: Upper-middle income;2015;8.107
+Sub-Saharan Africa: Upper-middle income;2016;8.113
+Sub-Saharan Africa: Upper-middle income;2017;8.041
+Sub-Saharan Africa: Upper-middle income;2018;8.028
+Sub-Saharan Africa: Upper-middle income;2019;8.144
+Sudan;2013;12.701
+Sudan;2014;11.526
+Sudan;2015;12.135
+Sudan;2016;12.009
+Sudan;2017;12.962
+Sudan;2018;15.89
+Sudan;2019;18.258
+Tanzania;2013;43.114
+Tanzania;2014;43.713
+Tanzania;2015;43.88
+Tanzania;2016;43.851
+Tanzania;2017;43.804
+Tanzania;2018;43.84
+Tanzania;2019;42.088
+Togo;2013;45.369
+Togo;2014;44.114
+Togo;2015;42.978
+Togo;2016;33.071
+Togo;2017;27.226
+Togo;2018;20.358
+Togo;2019;17.522
+Tunisia;2013;0.19
+Tunisia;2014;0.151
+Tunisia;2015;0.058
+Tunisia;2016;0.035
+Tunisia;2017;0.03
+Tunisia;2018;0.026
+Tunisia;2019;0.024
+Uganda;2013;34.189
+Uganda;2014;35.016
+Uganda;2015;36.149
+Uganda;2016;38.125
+Uganda;2017;38.714
+Uganda;2018;37.894
+Uganda;2019;38.072
+Western Africa;2013;29.705
+Western Africa;2014;27.97
+Western Africa;2015;28.3
+Western Africa;2016;27.152
+Western Africa;2017;25.276
+Western Africa;2018;23.59
+Western Africa;2019;22.661
+World;2013;8.579
+World;2014;8.027
+World;2015;7.58
+World;2016;7.304
+World;2017;6.819
+World;2018;6.309
+World;2019;6.227
+Zambia;2013;55.657
+Zambia;2014;55.223
+Zambia;2015;55.166
+Zambia;2016;54.839
+Zambia;2017;54.629
+Zambia;2018;54.32
+Zambia;2019;54.935
+Zimbabwe;2013;17.887
+Zimbabwe;2014;20.728
+Zimbabwe;2015;23.271
+Zimbabwe;2016;26.42
+Zimbabwe;2017;28.105
+Zimbabwe;2018;27.815
+Zimbabwe;2019;33.213
